@@ -1,0 +1,273 @@
+Added Component: Designator=C?(CAP TANSMD 1206_3216 CASE A)
+Add component (AddParameter): Name = "VALUE"; Value = "10uF 6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP TANSMD 1206_3216 CASE A)
+Add component (AddParameter): Name = "VALUE"; Value = "10uF 6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP TANSMD 1206_3216 CASE A)
+Add component (AddParameter): Name = "VALUE"; Value = "10uF 6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP TANSMD 1206_3216 CASE A)
+Add component (AddParameter): Name = "VALUE"; Value = "10uF 6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP TANSMD 1206_3216 CASE A)
+Add component (AddParameter): Name = "VALUE"; Value = "10uF 6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=FL?(FIL_NFZ32BW291HZ10L)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "NFZ32BW291HZ10L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(62900416021)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/62900416021.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Type"; Value = "USB 2.0 Type A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to 105 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "62900416021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "May 2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "1.5 A"; VariantName = "[No Variations]"
+Added Component: Designator=J?(HDR_1X3)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "HDRM3"; VariantName = "[No Variations]"
+Added Component: Designator=J?(62900416021)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/62900416021.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Type"; Value = "USB 2.0 Type A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to 105 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "62900416021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "May 2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "1.5 A"; VariantName = "[No Variations]"
+Added Component: Designator=J?(62900416021)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/62900416021.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Type"; Value = "USB 2.0 Type A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to 105 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "62900416021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "May 2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "1.5 A"; VariantName = "[No Variations]"
+Added Component: Designator=J?(J0-A/B/F)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/J0011D01B/Pulse+Electronics+Network/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Pulse Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "J0011D01B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/J0011D01B/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/J0011D01B/Pulse+Electronics+Network/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J?(62900416021)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/62900416021.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface Type"; Value = "USB 2.0 Type A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40 to 105 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Horizontal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "62900416021"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "May 2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "1.5 A"; VariantName = "[No Variations]"
+Added Component: Designator=LED?(LED_0805_GREEN)
+Added Component: Designator=LED?(LED_0805_GREEN)
+Added Component: Designator=LED?(LED_0805_GREEN)
+Added Component: Designator=LED?(LED_0805_GREEN)
+Added Component: Designator=LED?(LED_0805_GREEN)
+Added Component: Designator=U?(SOIC-8 4.9X3.9MM P1.27MM)
+Add component (AddParameter): Name = "PartNumber"; Value = "MC34063EBD-TR"; VariantName = "[No Variations]"
+Added Component: Designator=U?(SOIC-8 4.9X3.9MM P1.27MM)
+Add component (AddParameter): Name = "PartNumber"; Value = "MC34063EBD-TR"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=C?-2
+Added Pin To Net: NetName=+5 Pin=C?-2
+Added Pin To Net: NetName=+5 Pin=U?-7
+Added Pin To Net: NetName=+5 Pin=U?-7
+Added Net: Name=+5
+Added Pin To Net: NetName=3v3 Pin=C?-2
+Added Pin To Net: NetName=3v3 Pin=C?-2
+Added Pin To Net: NetName=3v3 Pin=C?-2
+Added Pin To Net: NetName=3v3 Pin=C?-2
+Added Pin To Net: NetName=3v3 Pin=C?-2
+Added Pin To Net: NetName=3v3 Pin=J?-9
+Added Pin To Net: NetName=3v3 Pin=J?-12
+Added Net: Name=3v3
+Added Net: Name=EECLK
+Added Net: Name=EECS
+Added Net: Name=EEDI
+Added Net: Name=EEDO
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=J?-4
+Added Pin To Net: NetName=GND Pin=J?-4
+Added Pin To Net: NetName=GND Pin=J?-4
+Added Pin To Net: NetName=GND Pin=J?-4
+Added Pin To Net: NetName=GND Pin=J?-8
+Added Pin To Net: NetName=GND Pin=J?-S1
+Added Pin To Net: NetName=GND Pin=J?-S1
+Added Pin To Net: NetName=GND Pin=J?-S1
+Added Pin To Net: NetName=GND Pin=J?-S1
+Added Pin To Net: NetName=GND Pin=J?-S2
+Added Pin To Net: NetName=GND Pin=J?-S2
+Added Pin To Net: NetName=GND Pin=J?-S2
+Added Pin To Net: NetName=GND Pin=J?-S2
+Added Pin To Net: NetName=GND Pin=U?-6
+Added Pin To Net: NetName=GND Pin=U?-6
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=J?-4
+Added Pin To Net: NetName=NetC?_1 Pin=J?-5
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=J?-1
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetJ?_3 Pin=J?-3
+Added Net: Name=NetJ?_3
+Added Pin To Net: NetName=NetJ?_10 Pin=J?-10
+Added Net: Name=NetJ?_10
+Added Pin To Net: NetName=NetJ?_11 Pin=J?-11
+Added Net: Name=NetJ?_11
+Added Pin To Net: NetName=NetLED?_1 Pin=LED?-1
+Added Net: Name=NetLED?_1
+Added Pin To Net: NetName=NetLED?_2 Pin=LED?-2
+Added Net: Name=NetLED?_2
+Added Net: Name=NetR?_1
+Added Net: Name=NetR?_2
+Added Pin To Net: NetName=nFDX_LED_GPIO0 Pin=LED?-2
+Added Net: Name=nFDX_LED_GPIO0
+Added Net: Name=nLNKA_LED_GPIO1
+Added Net: Name=nSPD_LED_GPIO2
+Added Pin To Net: NetName=PRTCTL2 Pin=U?-1
+Added Pin To Net: NetName=PRTCTL2 Pin=U?-2
+Added Net: Name=PRTCTL2
+Added Pin To Net: NetName=PRTCTL3 Pin=U?-3
+Added Pin To Net: NetName=PRTCTL3 Pin=U?-4
+Added Net: Name=PRTCTL3
+Added Pin To Net: NetName=PRTCTL4 Pin=U?-1
+Added Pin To Net: NetName=PRTCTL4 Pin=U?-2
+Added Net: Name=PRTCTL4
+Added Pin To Net: NetName=PRTCTL5 Pin=U?-3
+Added Pin To Net: NetName=PRTCTL5 Pin=U?-4
+Added Net: Name=PRTCTL5
+Added Pin To Net: NetName=PWR2 Pin=C?-1
+Added Pin To Net: NetName=PWR2 Pin=J?-1
+Added Pin To Net: NetName=PWR2 Pin=LED?-1
+Added Pin To Net: NetName=PWR2 Pin=U?-8
+Added Net: Name=PWR2
+Added Pin To Net: NetName=PWR3 Pin=C?-1
+Added Pin To Net: NetName=PWR3 Pin=J?-1
+Added Pin To Net: NetName=PWR3 Pin=LED?-1
+Added Pin To Net: NetName=PWR3 Pin=U?-5
+Added Net: Name=PWR3
+Added Pin To Net: NetName=PWR4 Pin=C?-1
+Added Pin To Net: NetName=PWR4 Pin=J?-1
+Added Pin To Net: NetName=PWR4 Pin=LED?-1
+Added Pin To Net: NetName=PWR4 Pin=U?-8
+Added Net: Name=PWR4
+Added Pin To Net: NetName=PWR5 Pin=C?-1
+Added Pin To Net: NetName=PWR5 Pin=J?-1
+Added Pin To Net: NetName=PWR5 Pin=LED?-1
+Added Pin To Net: NetName=PWR5 Pin=U?-5
+Added Net: Name=PWR5
+Added Pin To Net: NetName=RXN Pin=C?-2
+Added Pin To Net: NetName=RXN Pin=J?-6
+Added Net: Name=RXN
+Added Pin To Net: NetName=RXP Pin=C?-2
+Added Pin To Net: NetName=RXP Pin=J?-3
+Added Net: Name=RXP
+Added Pin To Net: NetName=TXN Pin=C?-2
+Added Pin To Net: NetName=TXN Pin=J?-2
+Added Net: Name=TXN
+Added Pin To Net: NetName=TXP Pin=C?-2
+Added Pin To Net: NetName=TXP Pin=J?-1
+Added Net: Name=TXP
+Added Net: Name=USBDM0
+Added Pin To Net: NetName=USBDM2 Pin=J?-2
+Added Net: Name=USBDM2
+Added Pin To Net: NetName=USBDM3 Pin=J?-2
+Added Net: Name=USBDM3
+Added Pin To Net: NetName=USBDM4 Pin=J?-2
+Added Net: Name=USBDM4
+Added Pin To Net: NetName=USBDM5 Pin=J?-2
+Added Net: Name=USBDM5
+Added Net: Name=USBDP0
+Added Pin To Net: NetName=USBDP2 Pin=J?-3
+Added Net: Name=USBDP2
+Added Pin To Net: NetName=USBDP3 Pin=J?-3
+Added Net: Name=USBDP3
+Added Pin To Net: NetName=USBDP4 Pin=J?-3
+Added Net: Name=USBDP4
+Added Pin To Net: NetName=USBDP5 Pin=J?-3
+Added Net: Name=USBDP5
+Added Pin To Net: NetName=VBUS_DET Pin=J?-2
+Added Net: Name=VBUS_DET
+Added Pin To Net: NetName=VDD18Core Pin=C?-2
+Added Pin To Net: NetName=VDD18Core Pin=C?-2
+Added Pin To Net: NetName=VDD18Core Pin=C?-2
+Added Net: Name=VDD18Core
+Added Pin To Net: NetName=VDD18ETHPLL Pin=C?-2
+Added Net: Name=VDD18ETHPLL
+Added Pin To Net: NetName=VDD18USBPLL Pin=C?-2
+Added Net: Name=VDD18USBPLL
+Added Pin To Net: NetName=VDD33A Pin=C?-2
+Added Pin To Net: NetName=VDD33A Pin=C?-2
+Added Pin To Net: NetName=VDD33A Pin=C?-2
+Added Pin To Net: NetName=VDD33A Pin=C?-2
+Added Pin To Net: NetName=VDD33A Pin=C?-2
+Added Pin To Net: NetName=VDD33A Pin=C?-2
+Added Pin To Net: NetName=VDD33A Pin=C?-2
+Added Net: Name=VDD33A
+Added Net: Name=XI
+Added Net: Name=XO
+Added Class: Name=LAN9514
